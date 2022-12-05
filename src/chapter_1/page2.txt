@@ -1,7 +1,9 @@
 
-this is page 2
+This is page 2
 
-we are getting ready to commit
+Welcome!
 
-nothing new yet
+We are ready to commit.
+
+We made changes!
 
